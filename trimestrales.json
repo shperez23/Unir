@@ -1,0 +1,115 @@
+﻿{
+    "Id": "f8222ac7-becb-42d4-888c-845f3855fba1",
+    "Url": "www.epdata.es/variacion-hurtos-espana/f8222ac7-becb-42d4-888c-845f3855fba1/espana/106",
+    "Titulo": "Variación de los hurtos en España",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0, 
+                "Datos":[
+                    {
+                      "Agno": 2016,
+                      "Periodo": "Trimestre 1",
+                      "Valor": 36
+                    },
+                    {
+                      "Agno": 2016,
+                      "Periodo": "Trimestre 2",
+                      "Valor": -85
+                    },
+                    {
+                      "Agno": 2016,
+                      "Periodo": "Trimestre 3",
+                      "Valor": -3
+                    },
+                    {
+                      "Agno": 2016,
+                      "Periodo": "Trimestre 4",
+                      "Valor": -55
+                    },
+                    {
+                      "Agno": 2017,
+                      "Periodo": "Trimestre 1",
+                      "Valor": -66
+                    },
+                    {
+                      "Agno": 2017,
+                      "Periodo": "Trimestre 2",
+                      "Valor": -124
+                    },
+                    {
+                      "Agno": 2017,
+                      "Periodo": "Trimestre 3",
+                      "Valor": -78
+                    },
+                    {
+                      "Agno": 2017,
+                      "Periodo": "Trimestre 4",
+                      "Valor": 13
+                    },
+                    {
+                      "Agno": 2018,
+                      "Periodo": "Trimestre 1",
+                      "Valor": -173
+                    },
+                    {
+                      "Agno": 2018,
+                      "Periodo": "Trimestre 2",
+                      "Valor": -63
+                    },
+                    {
+                      "Agno": 2018,
+                      "Periodo": "Trimestre 3",
+                      "Valor": -114
+                    },
+                    {
+                      "Agno": 2018,
+                      "Periodo": "Trimestre 4",
+                      "Valor": -89
+                    },
+                    {
+                      "Agno": 2019,
+                      "Periodo": "Trimestre 1",
+                      "Valor": 199
+                    },
+                    {
+                      "Agno": 2019,
+                      "Periodo": "Trimestre 2",
+                      "Valor": 55
+                    },
+                    {
+                      "Agno": 2019,
+                      "Periodo": "Trimestre 3",
+                      "Valor": -18
+                    },
+                    {
+                      "Agno": 2019,
+                      "Periodo": "Trimestre 4",
+                      "Valor": -8
+                    },
+                    {
+                      "Agno": 2020,
+                      "Periodo": "Trimestre 1",
+                      "Valor": -179
+                    },
+                    {
+                      "Agno": 2020,
+                      "Periodo": "Trimestre 2",
+                      "Valor": -4468
+                    },
+                    {
+                      "Agno": 2020,
+                      "Periodo": "Trimestre 3",
+                      "Valor": -4144
+                    },
+                    {
+                      "Agno": 2020,
+                      "Periodo": "Trimestre 4",
+                      "Valor": -3986
+                    }
+                  ]
+            }
+        ]
+    }
+}

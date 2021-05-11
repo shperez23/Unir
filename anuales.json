@@ -1,0 +1,35 @@
+﻿{
+  "Id": "f8222ac7-becb-42d4-888c-845f3855fba1",
+  "Url": "www.epdata.es/variacion-hurtos-espana/f8222ac7-becb-42d4-888c-845f3855fba1/espana/106",
+  "Titulo": "Variación de los hurtos en España",
+  "Subtitulo": "",
+  "Datos": {
+      "Metricas": [
+          {
+              "Id": 0, 
+              "Datos":[
+                {
+                  "anio": 2016,
+                  "valor": 711507
+                },
+                {
+                  "anio": 2017,
+                  "valor": 712398
+                },
+                {
+                  "anio": 2018,
+                  "valor": 706072
+                },
+                {
+                  "anio": 2019,
+                  "valor": 700453
+                },
+                {
+                  "anio": 2020,
+                  "valor": 421248
+                }
+              ]
+          }
+      ]
+  }
+}
